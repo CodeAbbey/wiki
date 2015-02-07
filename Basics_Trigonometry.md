@@ -1,3 +1,5 @@
+# Moved the content to wiki page
+
 # Basics of Trigonometry
 
 
